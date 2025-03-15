@@ -438,3 +438,5 @@
 06:34:47,721 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 06:34:47,902 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 06:34:48,29 graphrag.cli.index INFO All workflows completed successfully.
+14:14:56,456 graphrag.cli.index INFO Logging enabled at /Users/suim/Downloads/25Spring/IDS 798 Capstone Project/Neo4j/GraphRAG_Prompt/ragtest/logs/indexing-engine.log
+14:14:57,634 httpx INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
